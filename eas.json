@@ -1,0 +1,10 @@
+{
+  "build": {
+    "preview": {
+      "workingDirectory": "Frontend",
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
