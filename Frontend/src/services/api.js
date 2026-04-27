@@ -2,7 +2,7 @@ import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const API = axios.create({
-  baseURL: "http://192.168.31.158:5000/api",
+  baseURL: "https://ghar-seva-r9lr.onrender.com/api",
 });
 
 // ✅ Attach token properly
